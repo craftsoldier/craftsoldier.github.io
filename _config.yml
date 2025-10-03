@@ -24,7 +24,6 @@ github_username:  craftsoldier
 
 # Build settings
 markdown: kramdown
-theme: overkyll
 
 exclude:
   - Gemfile

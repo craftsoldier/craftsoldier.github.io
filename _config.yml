@@ -27,7 +27,6 @@ markdown: kramdown
 encoding: utf-8
 
 # Directory paths
-source: content
 layouts_dir: theme/_layouts
 includes_dir: theme/_includes
 sass:
@@ -41,4 +40,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - docs/
-  - config/
+  - theme/

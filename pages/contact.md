@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 navigation: true
+permalink: /contact/
 ---
 
 ## Get in touch

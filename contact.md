@@ -8,5 +8,5 @@ navigation: true
 
 - Email: julian.abraham@xaviers.edu.in
 - Personal: julesverne505@gmail.com
-- GitHub: [craftsolider](https://github.com/craftsolider)
-- X: [@craftsolider](https://x.com/craftsolider)
+- GitHub: [craftsoldier](https://github.com/craftsoldier)
+- X: [@craftsoldier](https://x.com/craftsoldier)

@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Hello"
+date: 2025-10-03 14:00:00
+---
+
+This is my first real post on my new site.
+
+I'm building this to share what I'm learning and working on.

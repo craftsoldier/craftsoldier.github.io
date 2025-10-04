@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 navigation: true
+nav_order: 1
 permalink: /projects/
 ---
 

@@ -10,8 +10,7 @@ I'm a developer and student at St. Xavier's College, Mumbai.
 I build things with code and write about what I'm learning.
 
 ### What I'm working on
-- Building web applications
-- Learning new technologies
+- Learning how to write code with beginner level projects (without AI)
 - Writing about my journey
 
 ### Find me

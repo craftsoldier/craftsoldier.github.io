@@ -6,13 +6,22 @@ nav_order: 1
 permalink: /projects/
 ---
 
-## My Projects
+## Projects I'm Cooking
 
-### Project 1
-Description of your first project.
+### Assorted TUI Games
 
-### Project 2
-Description of your second project.
+Forced myself to write silly TUI games, here are some of them
 
-### Project 3
-Description of your third project.
+    - tic tac toe
+    - hangman
+    - snake (classic)
+    - tetris
+    - connect FOUR
+    - battleships
+    - othello
+
+
+ideally want to add a few card games to the assortment too - pretty fun beginner project to learn to code if you ask me
+
+here's the repo if you're curious: https://github.com/craftsoldier/teeny_tiny_games
+

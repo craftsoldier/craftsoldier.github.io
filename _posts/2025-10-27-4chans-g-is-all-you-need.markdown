@@ -4,13 +4,29 @@ title: "4chan's /g is all you need"
 date: 2025-10-27 14:37:13
 ---
 
-tutorial hell is ngmi behavior. 
+tutorial hell is ngmi behavior.
 
-you watch some indian on youtube explain react hooks for 8 hours, you follow along, you feel smart, then you open a blank file and your brain is completely empty. 
+you watch some indian on youtube explain react hooks for 8 hours, you follow along, you feel smart, then you open a blank file and your brain is completely empty.
 
 then you cope by buying another udemy course under $20.
 
 ![tutorial hell](/assets/tutorial-hell.png)
+
+## why tutorial hell is cope
+
+tutorial hell feels productive because you're typing code but you're not learning to think.
+
+you're learning to follow instructions - that's how you turn into an npc.
+
+when someone says "just read the manual" they're not being elitist.
+
+they're telling you the actual secret sauce.
+
+when you're forced to figure shit out yourself, you learn how things actually work.
+
+not just what to type, but why it breaks, what your computer is actually doing and why nothing makes sense until suddenly it does.
+
+tutorials give you the illusion of progress without understanding - building forces understanding because you literally cannot bullshit a compiler.
 
 ## the anons were right all along
 
@@ -42,22 +58,6 @@ the code is shit at first but it makes them better at their craft.
 it's slow and you feel stupid the entire time. but that's the point.
 
 the difference isn't talent or IQ or whatever cope you're thinking. it's method.
-
-when you're forced to figure shit out yourself, you learn how things actually work.
-
-not just what to type, but why it breaks, what your computer is actually doing and why nothing makes sense until suddenly it does.
-
-tutorials give you the illusion of progress without understanding - building forces understanding because you literally cannot bullshit a compiler.
-
-## why tutorial hell is cope
-
-tutorial hell feels productive because you're typing code but you're not learning to think. 
-
-you're learning to follow instructions - that's how you turn into an npc.
-
-when someone says "just read the manual" they're not being elitist. 
-
-they're telling you the actual secret sauce.
 
 ## the gas-pedal to the learning-crisis - LLMs
 

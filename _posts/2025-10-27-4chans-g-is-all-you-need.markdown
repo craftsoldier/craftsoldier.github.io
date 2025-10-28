@@ -69,7 +69,7 @@ here's the thing: if you can't code without the llm, you can't code with it eith
 
 when chatgpt hallucinates some bullshit solution you won't even know, then when everything breaks at 2am and the llm is useless, you'll just sit there banging "PLEASE FIX THIS" into it like a brainlet.
 
-<img src="/assets/ai-slop.png" alt="ai slop" style="width: 70%;">
+<img src="/assets/ai-slop.png" alt="ai slop" style="width: 30%;">
 
 the ONLY competitive advantage left is actually understanding what you're building - not "prompt engineering" cope. 
 

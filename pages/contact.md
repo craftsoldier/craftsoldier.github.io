@@ -8,7 +8,8 @@ permalink: /contact/
 
 ## Get in touch
 
-- Email: julian.abraham@xaviers.edu.in
-- Personal: julesverne505@gmail.com
+- Signal: **julian_abraham.04** (best way to reach me)
+- Email: [julian.abraham@xaviers.edu.in](mailto:julian.abraham@xaviers.edu.in)
 - GitHub: [craftsoldier](https://github.com/craftsoldier)
 - X: [@craftsoldier](https://x.com/craftsoldier)
+- Zcash Community Forum: [@craftsoldier](https://forum.zcashcommunity.com/u/craftsoldier)

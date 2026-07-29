@@ -8,7 +8,13 @@ permalink: /projects/
 
 ## Projects I'm Cooking
 
-### teeny_tiny_games - Terminal Game Collection
+### ZcashMe — [github.com/zcashme](https://github.com/zcashme)
+
+I work as an engineer at ZcashMe, building on Zcash in Rust.
+
+---
+
+### teeny_tiny_games — Terminal Game Collection
 
 Forced myself to write silly TUI games in Python. Here's what I've built so far:
 

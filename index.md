@@ -3,16 +3,13 @@ layout: page
 title: Home
 ---
 
-## Hey, I'm Julian
+## Hello,
 
-I'm a developer and student at St. Xavier's College, Mumbai.
+I'm Jules. I build on Zcash.
 
-I build things with code and write about what I'm learning.
+Engineer at [ZcashMe](https://zcash.me). I write in Rust. I think the best way to make the world a better place is by creating things.
 
-### What I'm working on
-- Learning how to write code with beginner level projects (without AI)
-- Writing about my journey
-
-### Find me
+### Find me here
 - [GitHub](https://github.com/craftsoldier)
 - [X](https://x.com/craftsoldier)
+- [Zcash Community Forum](https://forum.zcashcommunity.com/u/craftsoldier)
